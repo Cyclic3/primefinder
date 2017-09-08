@@ -1,0 +1,8 @@
+[package]
+name = "primefinder"
+version = "0.1.0"
+authors = ["Cyclic3 <<>>"]
+
+[dependencies]
+openssl = "0.9.17"
+num_cpus = "1.6.2"
